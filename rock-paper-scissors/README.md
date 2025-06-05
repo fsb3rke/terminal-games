@@ -41,7 +41,7 @@ After building, the executable will be available in the `build` directory.
 ## ▶️ Run the Game
 
 ```bash
-./rock_paper_scissors
+./rock-paper-scissors
 ```
 
 ## 🗂️ Project Structure

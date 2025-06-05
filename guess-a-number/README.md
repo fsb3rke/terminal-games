@@ -41,7 +41,7 @@ After building, the executable will be available in the `build` directory.
 ## ▶️ Run the Game
 
 ```bash
-./guess_the_number
+./guess-the-number
 ```
 
 ## 🗂️ Project Structure
