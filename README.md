@@ -6,7 +6,7 @@ Each game is organized in its own folder and includes build instructions, depend
 
 ## 📦 Games
 
-### 🔢 [Guess the Number](./guess_the_number/)
+### 🔢 [Guess the Number](https://github.com/fsb3rke/terminal-games/tree/main/guess-a-number)
 
 Try to guess a random number between 1 and 100. After each guess, you'll be told whether to go higher or lower.
 
@@ -15,7 +15,7 @@ Try to guess a random number between 1 and 100. After each guess, you'll be told
 > - Input validation
 > - Live terminal UI with `ncurses`
 
-### ✊✋✌️ [Rock Paper Scissors](./rock_paper_scissors/)
+### ✊✋✌️ [Rock Paper Scissors](https://github.com/fsb3rke/terminal-games/tree/main/rock-paper-scissors)
 
 Classic rock-paper-scissors game against the computer. Make your move and see if you win, lose, or draw.
 
