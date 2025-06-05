@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(guess_a_number)
+project(guess-a-number)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
@@ -21,6 +21,6 @@ set(SOURCES
     src/random_utils.cpp
 )
 
-add_executable(guess_a_number ${SOURCES})
+add_executable(guess-a-number ${SOURCES})
 
-target_link_libraries(guess_a_number ${CURSES_LIBRARIES})
+target_link_libraries(guess-a-number ${CURSES_LIBRARIES})
