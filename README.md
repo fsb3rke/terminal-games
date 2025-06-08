@@ -24,6 +24,15 @@ Classic rock-paper-scissors game against the computer. Make your move and see if
 > - Score tracking
 > - Interactive feedback using `ncurses`
 
+### 🎲 [Dice Game](https://github.com/fsb3rke/terminal-games/tree/main/dice-game)
+
+Roll a 6-sided dice against a computer rival over 10 rounds. The player with the most round wins is the champion!
+
+> Features:
+> - 6-sided dice rolls for player and rival
+> - Real-time input and turn-based feedback
+> - Score tracking across 10 rounds using `ncurses`
+
 ---
 
 ## 🛠️ Requirements
