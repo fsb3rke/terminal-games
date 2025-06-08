@@ -42,7 +42,7 @@ int main() {
 
     int ch;
     while (1) {
-        clear();
+        erase();
 
         mvprintw(0, 0, "--- ROCK PAPER SCISSORS ---");
         mvprintw(2, 0, "Player Wins: %d | Computer Wins: %d | Draws: %d", playerWins, computerWins, draws);
@@ -87,8 +87,6 @@ int main() {
                 resultMessage = "Invalid input. Press (R)ock, (P)aper, (S)cissors or (Q)uit.";
             }
         }
-
-        usleep(10000);
     }
 
     endwin();

@@ -34,7 +34,7 @@ int main() {
 
     int ch;
     while (1) {
-        clear();
+        erase();
 
         mvprintw(0, 0, "--- Dice Game ---");
         mvprintw(2, 0, "In this game you and a computer Rival will play 10 rounds");
@@ -75,8 +75,6 @@ int main() {
                 wait = true;
             }
         }
-
-        usleep(20000);
     }
 
     endwin();
